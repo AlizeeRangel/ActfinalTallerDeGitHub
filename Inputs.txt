@@ -1,0 +1,22 @@
+Inputs de los números:
+Botones numéricos del 0 al 9: para ingresar números enteros.
+
+Inputs para las Operaciones:
+Suma (+): para sumar dos números.
+Resta (-): para restar un número de otro.
+Multiplicación (*): para multiplicar dos números.
+División (/): para dividir un número por otro.
+Porcentaje (%): para calcular el porcentaje de un número.
+
+Input para la funcione especial:
+Botón de igual (=): para calcular el resultado de la operación actual.
+
+Inputs para la pantalla:
+Ingrese el primer número:
+Ingrese el primer número que desea utilizar en el cálculo: > 10
+Ingrese el operador:
+Ingrese el operador (+, -, *, /) que desea utilizar:> +
+Ingrese el segundo número:
+Ingrese el segundo número que desea utilizar en el cálculo:> 5
+Ver el resultado:
+El resultado del cálculo es:
